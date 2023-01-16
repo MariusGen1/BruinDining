@@ -2,7 +2,7 @@
 
  # BruinDining
  #### Easy dining for UCLA students
-BruinDining is an iOS widget that allows you to see which dining halls are open at a glance. 
+BruinDining is an iOS widget that allows you to see which dining halls are open at a glance. <a href="https://apps.apple.com/app/id1665386667">Download from App Store here.</a>
 
 ## Preview
  <p align="center">
@@ -28,7 +28,7 @@ At BruinDining, we respect your privacy and are committed to protecting it. We d
 
 The app does not use any third-party services or tools that may collect data about you. The app does not track or collect any location or browsing data. We do not share any information about our users with any third parties. We do not sell or rent any personal information to any third parties.
 
-**In short: we do not collect any user data.**
+**In short: no user data is collected.**
 
 ## Contact
 Contact me by e-mail at mariusgenton@gmail.com.
