@@ -6,8 +6,8 @@ BruinDining is an iOS widget that allows you to see which dining halls are open 
 
 ## Preview
  <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/59290941/212590773-7affec1e-def4-4b96-94ec-cd9f479edaaa.png">
-  <img width="401" src="https://user-images.githubusercontent.com/59290941/212590778-0a4fbde4-3d1e-458c-ab4e-fbafb079139e.png">
+  <img width="400" src="https://user-images.githubusercontent.com/59290941/212593118-02c89228-5cb3-490b-aef6-986d9b3fb562.png">
+  <img width="402" src="https://user-images.githubusercontent.com/59290941/212593123-fdff8e8c-b8e3-4c21-ad6c-c5e57813fb2b.png">
  </p>
 
 ## Setup
