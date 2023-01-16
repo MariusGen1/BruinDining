@@ -4,3 +4,34 @@
  #### Easy dining for UCLA students
 BruinDining is an iOS widget that allows you to see which dining halls are open at a glance. 
 
+## Preview
+ <p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/59290941/212590773-7affec1e-def4-4b96-94ec-cd9f479edaaa.png">
+  <img width="401" src="https://user-images.githubusercontent.com/59290941/212590778-0a4fbde4-3d1e-458c-ab4e-fbafb079139e.png">
+ </p>
+
+## Setup
+1) Dowload the app from the iOS App Store.
+2) From the Home Screen, touch and hold a widget or an empty area until the apps jiggle.
+3) Tap the Add button in the upper-left corner.
+4) Search for the BruinDining widget, choose a size, then tap Add Widget.
+5) Tap Done.
+
+## Customization
+If you do not want the widget to include food trucks, you can hold the widget, tap Edit Widget, and set Include food trucks to false.
+
+## Compatibility
+Available on devices running iOS 15.0 or newer (both iPhone and iPad).
+
+## Privacy policy
+At BruinDining, we respect your privacy and are committed to protecting it. We do not collect any personal data from our users. Our app does not require any registration or personal information to be entered.
+
+The app does not use any third-party services or tools that may collect data about you. The app does not track or collect any location or browsing data. We do not share any information about our users with any third parties. We do not sell or rent any personal information to any third parties.
+
+**In short: we do not collect any user data.**
+
+## Contact
+Contact me by e-mail at mariusgenton@gmail.com.
+
+## Disclaimer
+This app is not affiliated with UCLA or UCLA dining.
