@@ -26,7 +26,7 @@ Available on devices running iOS 15.0 or newer (both iPhone and iPad).
 ## Privacy policy
 At BruinDining, we respect your privacy and are committed to protecting it. We do not collect any personal data from our users. Our app does not require any registration or personal information to be entered.
 
-The app does not use any third-party services or tools that may collect data about you. The app does not track or collect any location or browsing data. We do not share any information about our users with any third parties. We do not sell or rent any personal information to any third parties. For added transparency, the source code is publicly available in this repository.
+The app does not use any third-party services or tools that may collect data about you. The app does not track or collect any location or browsing data. We do not share any information about our users with any third parties. We do not sell or rent any personal information to any third parties. For additional transparency, the source code is publicly available in this repository.
 
 **In short: no user data is collected.**
 
