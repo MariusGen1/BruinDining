@@ -35,3 +35,5 @@ Contact me by e-mail at mariusgenton@gmail.com.
 
 ## Disclaimer
 This app is not affiliated with UCLA or UCLA dining.
+
+###### Current version: 1.0
